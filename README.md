@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="center"><img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <p> <img src="https://komarev.com/ghpvc/?username=skrout05&label=Profile%20views&color=0e75b6&style=flat" alt="skrout05" /> </p>
 
-- 🔭 I’m currently working on [minor project](of Sem 5)
 
 - 🌱 I’m currently learning **frontend development**
 
