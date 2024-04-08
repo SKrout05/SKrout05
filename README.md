@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **C, HTML and CSS**
 
-- 📫 How to reach me **iamsanjay04032002@gmail.com**
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
